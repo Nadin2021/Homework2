@@ -1,0 +1,16 @@
+/Users/nadin/Desktop/Geekbrains/3.Znakomstva s yazikami programmirovania/C# Education/Homework2/bin/Debug/net6.0/Homework2
+/Users/nadin/Desktop/Geekbrains/3.Znakomstva s yazikami programmirovania/C# Education/Homework2/bin/Debug/net6.0/Homework2.deps.json
+/Users/nadin/Desktop/Geekbrains/3.Znakomstva s yazikami programmirovania/C# Education/Homework2/bin/Debug/net6.0/Homework2.runtimeconfig.json
+/Users/nadin/Desktop/Geekbrains/3.Znakomstva s yazikami programmirovania/C# Education/Homework2/bin/Debug/net6.0/Homework2.dll
+/Users/nadin/Desktop/Geekbrains/3.Znakomstva s yazikami programmirovania/C# Education/Homework2/bin/Debug/net6.0/ref/Homework2.dll
+/Users/nadin/Desktop/Geekbrains/3.Znakomstva s yazikami programmirovania/C# Education/Homework2/bin/Debug/net6.0/Homework2.pdb
+/Users/nadin/Desktop/Geekbrains/3.Znakomstva s yazikami programmirovania/C# Education/Homework2/obj/Debug/net6.0/Homework2.GlobalUsings.g.cs
+/Users/nadin/Desktop/Geekbrains/3.Znakomstva s yazikami programmirovania/C# Education/Homework2/obj/Debug/net6.0/Homework2.csproj.AssemblyReference.cache
+/Users/nadin/Desktop/Geekbrains/3.Znakomstva s yazikami programmirovania/C# Education/Homework2/obj/Debug/net6.0/Homework2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadin/Desktop/Geekbrains/3.Znakomstva s yazikami programmirovania/C# Education/Homework2/obj/Debug/net6.0/Homework2.AssemblyInfoInputs.cache
+/Users/nadin/Desktop/Geekbrains/3.Znakomstva s yazikami programmirovania/C# Education/Homework2/obj/Debug/net6.0/Homework2.AssemblyInfo.cs
+/Users/nadin/Desktop/Geekbrains/3.Znakomstva s yazikami programmirovania/C# Education/Homework2/obj/Debug/net6.0/Homework2.csproj.CoreCompileInputs.cache
+/Users/nadin/Desktop/Geekbrains/3.Znakomstva s yazikami programmirovania/C# Education/Homework2/obj/Debug/net6.0/Homework2.dll
+/Users/nadin/Desktop/Geekbrains/3.Znakomstva s yazikami programmirovania/C# Education/Homework2/obj/Debug/net6.0/ref/Homework2.dll
+/Users/nadin/Desktop/Geekbrains/3.Znakomstva s yazikami programmirovania/C# Education/Homework2/obj/Debug/net6.0/Homework2.pdb
+/Users/nadin/Desktop/Geekbrains/3.Znakomstva s yazikami programmirovania/C# Education/Homework2/obj/Debug/net6.0/Homework2.genruntimeconfig.cache
